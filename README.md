@@ -1,6 +1,8 @@
-# Payment Demp
+# Payment Demo
 
 This is a [Stripe](https://stripe.com/) demo app using [Cloudflare Pages](https://pages.dev).
+
+View the demo here: https://pages-stripe-demo.pages.dev/
 
 ## Get started
 
